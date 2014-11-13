@@ -1,0 +1,9 @@
+C:\Users\1\Documents\2 семестр - Информатика\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\bin\Debug\DAA.DP.lab2.strategy.exe.config
+C:\Users\1\Documents\2 семестр - Информатика\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\obj\Debug\DAA.DP.lab2.strategy.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\2 семестр - Информатика\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\bin\Debug\DAA.DP.lab2.strategy.exe
+C:\Users\1\Documents\2 семестр - Информатика\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\bin\Debug\DAA.DP.lab2.strategy.pdb
+C:\Users\1\Documents\2 семестр - Информатика\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\obj\Debug\DAA.DP.lab2.strategy.exe
+C:\Users\1\Documents\2 семестр - Информатика\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\obj\Debug\DAA.DP.lab2.strategy.pdb
+C:\Users\1\Documents\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\bin\Debug\DAA.DP.lab2.strategy.exe.config
+C:\Users\1\Documents\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\obj\Debug\DAA.DP.lab2.strategy.exe
+C:\Users\1\Documents\DAA.DP.lab2.strategy\DAA.DP.lab2.strategy\obj\Debug\DAA.DP.lab2.strategy.pdb
